@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+c:\users\nahrime\source\repos\image_processing\image_processing\myform.cpp(31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nahrime\source\repos\image_processing\image_processing\myform.cpp(40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nahrime\source\repos\image_processing\image_processing\myform.cpp(644): warning C4305: '=': truncation from 'unsigned __int64' to 'double'
+c:\users\nahrime\source\repos\image_processing\image_processing\myform.cpp(962): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nahrime\source\repos\image_processing\image_processing\myform.cpp(963): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nahrime\source\repos\image_processing\image_processing\myform.cpp(1069): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'C:\Users\Nahrime\source\repos\Image_Processing\Debug\Image_Processing.exe'
